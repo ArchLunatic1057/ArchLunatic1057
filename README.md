@@ -8,6 +8,8 @@
   <img src="https://skillicons.dev/icons?i=java" height="40" alt="java logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=r" height="40" alt="R logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=md" height="40" alt="md logo"  />
 </div>
 
 ###
@@ -28,6 +30,8 @@
   <img src="https://skillicons.dev/icons?i=idea" height="40" alt="idea logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=obsidian" height="40" alt="obsidian logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=androidstudio" height="40" alt="androidstudio logo"  />
 </div>
 
 ###
