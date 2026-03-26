@@ -9,8 +9,6 @@
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=java" height="40" alt="java logo"  />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=sql" height="40" alt="SQL logo"  />
-  <img width="12" />
   <img src="https://skillicons.dev/icons?i=r" height="40" alt="R logo"  />
 </div>
 
